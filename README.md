@@ -1,4 +1,3 @@
-
 * elecrow_make_zip.py
   * Elecrow に発注するときの zip を作成する
   * 以下のように実行する
